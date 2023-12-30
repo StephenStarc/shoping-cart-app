@@ -1,0 +1,17 @@
+.cartItem{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 90%;
+    margin: auto;
+    padding: 10px 20px 10px 10px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 10px black;
+}
+
+.cartItem img{
+    width: 100px;
+}
+.countHandler input{
+    width: 13px;
+}
